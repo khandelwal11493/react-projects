@@ -1,4 +1,4 @@
 # react-projects
 Learning react
 
-trying to learn the changes and see.
+trying to learn the changes and see new things.
